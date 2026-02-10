@@ -1,0 +1,14 @@
+# Rename this file to languages.toml to enable multilingual support
+[en]
+languageName = "English"
+title = "Retro Brick Library"
+weight = 1
+[en.params.sidebar]
+subtitle = "The Complete Archive for Retro Handhelds"
+
+[zh]
+languageName = "简体中文"
+title = "寨机风云录"
+weight = 2
+[zh.params.sidebar]
+subtitle = "复古掌机的完整档案馆"
