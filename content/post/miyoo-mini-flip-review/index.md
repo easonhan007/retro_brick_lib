@@ -7,15 +7,20 @@ license: null
 comments: true
 draft: false
 categories: Handheld
+tags: 
+  - 2.8 Inch
+  - 560p
+  - A7
+  - Linux
 build:
   list: always
 ---
 
-This video introduces the MEO MINI FLIP, a compact flip handheld console that is about 40% smaller than the GPA SP, making it extremely portable. It features a 2.8-inch screen with a 750x560 resolution, powered by an A7 1.2GHz processor and 128G of memory, suitable for retro games like CPS, GBA, FC, and some PS titles. Its flip design has three fixed angles with a smooth hinge, but the screen bezel is narrow, and the pre-applied screen protector has quality issues. The exterior design is simple, with no logo on the front and heat vents on the back, offering a decent overall texture.
+Miyoo Mini MINI FLIP, a compact flip handheld console that is about 40% smaller than the GPA SP, making it extremely portable. It features a 2.8-inch screen with a 750x560 resolution, powered by an [A7 1.2GHz processor](https://en.wikipedia.org/wiki/ARM_Cortex-A7) and 128M of memory, suitable for retro games like CPS, GBA, FC, and some PS titles. Its flip design has three fixed angles with a smooth hinge, but the screen bezel is narrow, and the pre-applied screen protector has quality issues. The exterior design is simple, with no logo on the front and heat vents on the back, offering a decent overall texture.
 
-On the positive side, the MEO MINI FLIP supports an auto-standby mode with long standby duration, making it ideal for quick gaming sessions. It also supports WiFi for local multiplayer connections. However, drawbacks include the use of dome switches for buttons, which feel less tactile, and the lack of joysticks, limiting it to simpler games. A significant issue is the noticeable electrical noise, which affects the gaming experience. The package includes a charging cable, manual, and TF card reader but lacks a headphone jack, requiring a USB-C to 3.5mm adapter.
+On the positive side, the Miyoo MINI FLIP supports an auto-standby mode with long standby duration, making it ideal for quick gaming sessions. It also supports WiFi for local multiplayer connections. However, drawbacks include the use of dome switches for buttons, which feel less tactile, and the lack of joysticks, limiting it to simpler games. A significant issue is the noticeable electrical noise, which affects the gaming experience. The package includes a charging cable, manual, and TF card reader but lacks a headphone jack, requiring a USB-C to 3.5mm adapter.
 
-Priced at 288 yuan, this handheld console is suitable for users seeking portability and retro gaming. However, it requires system optimization and improvements in button feel, especially addressing the electrical noise issue. Overall, the MEO MINI FLIP is a stylish and functional compact console for casual gaming.
+Priced at 288 yuan, this handheld console is suitable for users seeking portability and retro gaming. However, it requires system optimization and improvements in button feel, especially addressing the electrical noise issue. Overall, the Miyoo MINI FLIP is a stylish and functional compact console for casual gaming.
 
 ---
 
