@@ -1,5 +1,5 @@
 ---
-title: 迷你龙掌机评测：高颜值、RK3566配置、售价299元
+title: MINILOONG掌机评测：高颜值、RK3566配置、售价299元
 description: null
 date: '2026-01-30T12:35:03+00:00'
 image: BV1pG6qB3EzP_20260210_110142_thumbnail.jpg
