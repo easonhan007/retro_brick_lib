@@ -7,11 +7,17 @@ license: null
 comments: true
 draft: false
 categories: Handheld
+tags:
+  - 5 Inch
+  - A527
+  - 720p
+  - Android
+
 build:
   list: always
 ---
 
-The video introduces the Dio Mi A527 smartphone, highlighting its recent price drop to just over 300 RMB, compared to its previous price of over 400 RMB. This metal-bodied phone features key specifications such as a 1280x720 resolution 5-inch display, Android operating system, 3GB RAM, 32GB storage, touch support, a 64-bit processor, and connectivity options like WiFi and Bluetooth. The presenter believes that the device still offers decent value for money at this price point, given its specifications. Additionally, the video mentions that a more detailed review of this phone is available in the creator's earlier video.
+This post introduces the Dio Mi A527 handheld, highlighting its recent price drop to just over 300 RMB, compared to its previous price of over 400 RMB. This metal-bodied phone features key specifications such as a 1280x720 resolution 5-inch display, Android operating system, 3GB RAM, 32GB storage, touch support, [a 64-bit processor](https://www.scensmart.com/general-description-of-soc/allwinner-a527-high-performance-8-core-soc-datasheet/), and connectivity options like WiFi and Bluetooth. The presenter believes that the device still offers decent value for money at this price point, given its specifications. 
 
 In summary, the presenter provides a quick evaluation of the Dio Mi A527, emphasizing its affordability and decent performance for users with modest requirements and a limited budget.
 
@@ -23,7 +29,7 @@ In summary, the presenter provides a quick evaluation of the Dio Mi A527, emphas
 | Category                  | Details                                |
 |---------------------------|----------------------------------------|
 | Model                     | A527                                   |
-| Brand / Manufacturer      | Dio Mi                                 |
+| Brand / Manufacturer      | Dio Mi(迪优米)                                 |
 | Screen Specs              | 5-inch touchscreen                     |
 | Resolution                | 1280x720                               |
 | Battery Capacity          | None                                   |
