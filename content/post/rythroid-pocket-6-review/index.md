@@ -1,5 +1,5 @@
 ---
-title: Rythroid Pocket 6 Handheld Review Summary
+title: Retroid Pocket 6 Handheld Review Summary
 description: null
 date: '2026-01-02T09:28:10+00:00'
 image: BV1eSiFB1EJ3_20260210_113047_thumbnail.jpg
@@ -7,11 +7,16 @@ license: null
 comments: true
 draft: false
 categories: Handheld
+tags:
+  - 1080p
+  - 5.5 Inch 
+  - Snapdragon 8 Gen 2
+  - Android
 build:
   list: always
 ---
 
-The video provides a detailed review of the new Rythroid Pocket 6 (RP6) handheld console. Compared to previous models like RP5 and RP5.5, RP6 has noticeable design upgrades. It features a Qualcomm Snapdragon chip with two storage configurations: 8GB+128GB and 12GB+256GB, starting at 1499 RMB. The 5.5-inch OLED screen supports a 120Hz refresh rate and 1080P resolution but uses PWM dimming. The new purple color option and transparent button design enhance its aesthetic. Button texture and feedback have been improved.
+The video provides a detailed review of the new Retroid Pocket 6 (RP6) handheld console. Compared to previous models like RP5 and RP5.5, RP6 has noticeable design upgrades. It features a [Qualcomm Snapdragon chip](https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-gen-2-mobile-platform) with two storage configurations: 8GB+128GB and 12GB+256GB, starting at 1499 RMB. The 5.5-inch OLED screen supports a 120Hz refresh rate and 1080P resolution but uses PWM dimming. The new purple color option and transparent button design enhance its aesthetic. Button texture and feedback have been improved.
 
 RP6 introduces rear buttons (M1, M2) and upgraded fan systems with dust-proof nets for both intake and exhaust vents, improving cooling efficiency. Interfaces include a 3.5mm headphone jack and a slightly left-aligned Type-C port supporting 27W fast charging. The 6000mAh battery ensures extended playtime. Weighing approximately 304g, RP6 is slightly heavier than its predecessor but remains comfortable to hold. Performance tests indicate stable frame rates during gaming, good heat control, and minimal fan noise. Emulator tests show excellent compatibility, supporting high resolutions and multiple platforms.
 
@@ -24,7 +29,7 @@ The internal teardown reveals components like a linear vibration motor and turbi
    
 | Category                  | Details                                |
 |---------------------------|----------------------------------------|
-| Model                     | Rythroid Pocket 6 (RP6)               |
+| Model                     | Retroid Pocket 6 (RP6)               |
 | Brand / Manufacturer      | None                                  |
 | Screen Specs              | 5.5-inch OLED screen                  |
 | Resolution                | 1080P                                 |

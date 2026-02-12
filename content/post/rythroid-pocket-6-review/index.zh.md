@@ -1,5 +1,5 @@
 ---
-title: Rythroid Pocket 6 掌机评测总结
+title: Retroid Pocket 6 掌机评测总结
 description: null
 date: '2026-01-02T09:28:10+00:00'
 image: BV1eSiFB1EJ3_20260210_113047_thumbnail.jpg
@@ -7,11 +7,16 @@ license: null
 comments: true
 draft: false
 categories: 掌机
+tags:
+  - 1080p
+  - 5.5 Inch 
+  - Snapdragon 8 Gen 2
+  - Android
 build:
   list: always
 ---
 
-视频介绍了新款掌机 Rythroid Pocket 6（RP6）的详细评测。RP6与前代 RP5 和 RP5.5 设计略有不同。其核心配置包括高通骁龙芯片，提供 8GB+128GB 和 12GB+256GB 两种存储组合，起售价 1499 元。屏幕采用 5.5 英寸 OLED，支持 120Hz 高刷，分辨率 1080P，但为 PWM 调光。外观方面，新增紫色版本，按键材质为透明设计，按键手感有所优化。
+视频介绍了新款掌机 Retroid Pocket 6（RP6）的详细评测。RP6与前代 RP5 和 RP5.5 设计略有不同。其核心配置包括[高通骁龙芯片](https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-gen-2-mobile-platform)，提供 8GB+128GB 和 12GB+256GB 两种存储组合，起售价 1499 元。屏幕采用 5.5 英寸 OLED，支持 120Hz 高刷，分辨率 1080P，但为 PWM 调光。外观方面，新增紫色版本，按键材质为透明设计，按键手感有所优化。
 
 RP6增加了背键设计（M1、M2），风扇系统升级为进出风口均带防尘网，散热性能提升。接口包括3.5mm耳机孔和偏左的 Type-C 接口，支持 27W 快充，内置 6000mAh 电池。机身重量约 304 克，比前代略重，但手持舒适度较好。性能测试显示，其运行游戏时温度控制良好，风扇噪声较小。模拟器性能表现出色，帧率稳定，支持高分辨率和多平台游戏。
 
@@ -24,7 +29,7 @@ RP6增加了背键设计（M1、M2），风扇系统升级为进出风口均带�
    
 | 项目               | 内容                                   |
 |--------------------|----------------------------------------|
-| 产品型号           | Rythroid Pocket 6 (RP6)               |
+| 产品型号           | Retroid Pocket 6 (RP6)               |
 | 品牌/厂商          | 未提及                                |
 | 屏幕规格           | 5.5 英寸 OLED 屏                     |
 | 分辨率             | 1080P                                 |
