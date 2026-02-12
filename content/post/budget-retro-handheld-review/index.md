@@ -10,14 +10,14 @@ categories: Handheld
 tags:
   - 4 Inch
   - Linux
-  - 240p 
+  - RK3326
 build:
   list: always
 ---
 
 This retro handheld console is impressively equipped and functional. 
 
-It features a 64-bit quad-core chip and an open-source Linux system, capable of running over 30 emulators. 
+It features a 64-bit quad-core chip(is very likey [RK3326)[https://www.rock-chips.com/a/en/products/RK33_Series/2018/0514/900.html]) and an open-source Linux system, capable of running over 30 emulators. 
 
 With a 4-inch high-definition screen and colorful ambient lights, it offers excellent visual effects. The 13,000 RPM vibration motor enhances immersive operation, while the 4000mAh battery ensures long-lasting endurance. Additionally, it supports WiFi for online battles, making it a standout in the budget category. 
 
@@ -37,7 +37,7 @@ The console also has the capability to watch third-party videos online, although
 | Model                     | None                                   |
 | Brand / Manufacturer      | None                                   |
 | Screen Specs              | 4-inch HD screen                       |
-| Resolution                | 320x240                                |
+| Resolution                | Unknow                               |
 | Battery Capacity          | 4000mAh                                |
 | Button Types              | ABSY D-pad with conductive rubber, two joysticks with press support, shoulder buttons are tactile switches |
 | Ports / Slots             | TF card slot on left, power/restart button on right |
@@ -46,7 +46,7 @@ The console also has the capability to watch third-party videos online, although
 | Main Supported Emulators  | 30+ emulators including NDS, GBA, PS1  |
 | Main Playable Game Systems| PSCO8, Java, EZRPG, Arcade, N64, GBA, PS1, PSP |
 | Special Features          | Colorful ambiance lighting, 13000 RPM vibration motor, WiFi for video streaming |
-| Price Range               | Budget / around $15 USD level          |
+| Price Range               | Budget / around $40 USD level          |
 | Pre-installed Games/Card  | None                                   |
 | Newbie-Friendliness Notes | User interface in Chinese, newbie-friendly |
 | Performance / Smoothness  | Exceeds expectations, good emulator compatibility, excellent graphics and vibration feedback |
