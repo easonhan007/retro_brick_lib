@@ -7,6 +7,10 @@ license: null
 comments: true
 draft: false
 categories: 掌机  
+tags:
+  - 4 Inch
+  - Linux
+  - 240p 
 build:
   list: always
 ---

@@ -7,11 +7,16 @@ license: null
 comments: true
 draft: false
 categories: TV Box
+tags:
+  - TV Box
+  - Snapdragon 8 Gen 2
+  - Android
+
 build:
   list: always
 ---
 
-This video introduces a TV box priced at 599 RMB, featuring the Snapdragon 8 Gen 2 processor, 8GB of RAM, and 256GB of storage. Compact in size, the box comes with accessories including a remote control, Hub extension, C2HDMI cable, and a cooling fan, supporting 4K60fps output. The first boot requires manual activation, with a relatively long startup time. Running on Android, the TV box is preloaded with various television apps and emulators, allowing users to watch local channels and operate via an air mouse, though the air mouse requires time to get used to. Pairing with a PS4 controller via Bluetooth significantly improves navigation thanks to its touchpad feature.
+This video introduces a TV box priced at 599 RMB, featuring the [Snapdragon 8 Gen 2 processor](https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-gen-2-mobile-platform), 8GB of RAM, and 256GB of storage. Compact in size, the box comes with accessories including a remote control, Hub extension, C2HDMI cable, and a cooling fan, supporting 4K60fps output. The first boot requires manual activation, with a relatively long startup time. Running on Android, the TV box is preloaded with various television apps and emulators, allowing users to watch local channels and operate via an air mouse, though the air mouse requires time to get used to. Pairing with a PS4 controller via Bluetooth significantly improves navigation thanks to its touchpad feature.
 
 Performance tests reveal that the TV box handles emulator games like *Resident Evil 4* smoothly, with stable frame rates around 30-36 FPS in less demanding scenes. For high-performance games such as *Genshin Impact*, the box also performs well, supporting ultra-high graphics settings and maintaining 60FPS. Additionally, compatibility with PS4 controllers and other gaming devices further enhances the gaming experience.
 
@@ -24,7 +29,7 @@ The teardown section shows the internal setup, with the main hardware being the 
    
 | Category                  | Details                                |
 |---------------------------|----------------------------------------|
-| Model                     | Snapdragon 8G2 TV Box                 |
+| Model                     | Snapdragon 8 Gen 2 TV Box                 |
 | Brand / Manufacturer      | Zeven Handcrafted                     |
 | Screen Specs              | No screen                             |
 | Resolution                | Up to 4K 60 FPS                       |
